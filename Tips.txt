@@ -1,0 +1,1 @@
+code --list-extensions --show-versions     Visual Studion Code show installed packages and versions
